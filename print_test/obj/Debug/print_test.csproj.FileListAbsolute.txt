@@ -1,0 +1,10 @@
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\bin\Debug\print_test.exe.config
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\bin\Debug\print_test.exe
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\bin\Debug\print_test.pdb
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\bin\Debug\test_method.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\bin\Debug\test_method.pdb
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\obj\Debug\print_test.csprojAssemblyReference.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\obj\Debug\print_test.csproj.CoreCompileInputs.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\obj\Debug\print_test.csproj.CopyComplete
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\obj\Debug\print_test.exe
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\print_test\obj\Debug\print_test.pdb

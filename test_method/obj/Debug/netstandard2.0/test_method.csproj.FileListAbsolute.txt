@@ -1,0 +1,9 @@
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\bin\Debug\netstandard2.0\test_method.deps.json
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\bin\Debug\netstandard2.0\test_method.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\bin\Debug\netstandard2.0\test_method.pdb
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.csprojAssemblyReference.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.AssemblyInfoInputs.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.AssemblyInfo.cs
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.csproj.CoreCompileInputs.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallengesWeek2\CSharpChallengesWeek2\test_method\obj\Debug\netstandard2.0\test_method.pdb

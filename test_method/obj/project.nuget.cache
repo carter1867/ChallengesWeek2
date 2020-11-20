@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktpE+qNkQOBlaa4ou6uJQ0oF/dwFLrQkOwioCrqY88Xc+xGpyvnQIigXIrnw4S+TFnEOhMLpuAWHfugvsIiG/A==",
+  "success": true,
+  "projectFilePath": "Z:\\ElevenFiftyProjects\\CSharpChallenges\\CSharpChallengesWeek2\\CSharpChallengesWeek2\\test_method\\test_method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carte\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\carte\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
